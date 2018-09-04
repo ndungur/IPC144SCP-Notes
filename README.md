@@ -1,4 +1,4 @@
-# IPC144 STT in-class notes and material 
+# IPC144 SCP in-class notes and material 
 
 ## IPC144 Online Weekly Q & A Session (To Be Announced)
 NOTES: <br />
@@ -6,7 +6,7 @@ NOTES: <br />
 - When prompted "Listen only or Microphone" please choose "Microphone" so you can take part in discussions. <br />
 - Please use you real name when connected.<br />
 - The link will be activated shortly before the start of the session:<br /><br />
-[Join Session](https://github.com/Seneca-144100/IPC-NOTES-SHI/blob/master/README.md) <br /> <br />
+[Join Session](https://github.com/Seneca-144100/IPC144SCP-Notes/blob/master/README.md) <br /> <br />
 Recorded Sessions: <br />
 
 
