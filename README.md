@@ -57,7 +57,7 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=pttIoMyyMaM) <br />
 
 ## Lecture Videos
-[TBA]() <br />
+[Lecture Video Playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylotlIKklxHn1tdRD8nV4XCuV) <br />
 
 
 
