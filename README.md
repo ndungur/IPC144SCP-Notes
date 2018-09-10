@@ -1,4 +1,4 @@
-# IPC144 STT in-class notes and material 
+# IPC144 SCP in-class notes and material 
 
 ## IPC144 Online Weekly Q & A Session (To Be Announced)
 NOTES: <br />
@@ -6,7 +6,7 @@ NOTES: <br />
 - When prompted "Listen only or Microphone" please choose "Microphone" so you can take part in discussions. <br />
 - Please use you real name when connected.<br />
 - The link will be activated shortly before the start of the session:<br /><br />
-[Join Session](https://github.com/Seneca-144100/IPC-NOTES-SHI/blob/master/README.md) <br /> <br />
+[Join Session](https://github.com/Seneca-144100/IPC144SCP-Notes/blob/master/README.md) <br /> <br />
 Recorded Sessions: <br />
 
 
@@ -57,7 +57,7 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=pttIoMyyMaM) <br />
 
 ## Lecture Videos
-[TBA]() <br />
+[Lecture Video Playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylotlIKklxHn1tdRD8nV4XCuV) <br />
 
 
 
