@@ -18,7 +18,7 @@
     <ClCompile Include="prg.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="myCoins.c">
+    <ClCompile Include="myIO.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

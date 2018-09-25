@@ -24,3 +24,4 @@ void coins(double money) {
   cents = cents % 5;
   remValue(cents);
 }
+
