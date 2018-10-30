@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{1EA8B0DA-1F83-4C83-BE5A-E50869E9D784}</ProjectGuid>
+    <ProjectGuid>{81CE9520-9DE9-4D72-911F-1BE45510A186}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My09Oct3</RootNamespace>
+    <RootNamespace>My10Oct17</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,6 +147,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="myIO.c" />
+    <ClCompile Include="prg.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myIO.h" />
+    <ClInclude Include="ptr.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
