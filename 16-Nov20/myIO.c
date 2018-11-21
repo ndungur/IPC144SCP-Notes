@@ -3,16 +3,19 @@
 #include "myIO.h"
 void getStr(char *str, int len){
    fgets(str, len, stdin);
-   //char buf[1024];
-   //int i;
-   //if (len > 1023) len = 1023;
-   //scanf("%1023[^\n]", buf);
-   //buf[len] = 0;
-   //flushKeyboard();
-   //for (i = 0; buf[i]; i++) {
-   //   str[i] = buf[i];
-   //}
-   //str[i] = 0;
+   flushKeyboard();
+   /* without using fgets:
+   char buf[1024];
+   int i;
+   if (len > 1023) len = 1023;
+   scanf("%1023[^\n]", buf);
+   buf[len] = 0;
+   flushKeyboard();
+   for (i = 0; buf[i]; i++) {
+      str[i] = buf[i];
+   }
+   str[i] = 0;
+   */
 }
 
 double getDouble(void) {
