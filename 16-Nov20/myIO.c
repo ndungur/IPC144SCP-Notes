@@ -2,9 +2,6 @@
 #include <stdio.h>
 #include "myIO.h"
 void getStr(char *str, int len){
-   fgets(str, len, stdin);
-   flushKeyboard();
-   /* without using fgets:
    char buf[1024];
    int i;
    if (len > 1023) len = 1023;
@@ -15,7 +12,6 @@ void getStr(char *str, int len){
       str[i] = buf[i];
    }
    str[i] = 0;
-   */
 }
 
 double getDouble(void) {
