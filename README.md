@@ -1,15 +1,5 @@
 # IPC144 SCP in-class notes and material 
 
-## IPC144 Online Weekly Q & A Session (To Be Announced)
-NOTES: <br />
-- Please have a headset or earbuds connected to your computer to prevent voice feedback. <br />
-- When prompted "Listen only or Microphone" please choose "Microphone" so you can take part in discussions. <br />
-- Please use you real name when connected.<br />
-- The link will be activated shortly before the start of the session:<br /><br />
-[Join Session](https://github.com/Seneca-144100/IPC144SCP-Notes/blob/master/README.md) <br /> <br />
-Recorded Sessions: <br />
-
-
 ## IPC144 links 
 [Subject outline](https://ict.senecacollege.ca/course/ipc144)<br />
 [Subject timeline](https://scs.senecac.on.ca/~ipc144/pages/timeline.html)<br />
