@@ -1,20 +1,10 @@
 # IPC144 SCP in-class notes and material 
 
-## IPC144 Online Weekly Q & A Session (To Be Announced)
-NOTES: <br />
-- Please have a headset or earbuds connected to your computer to prevent voice feedback. <br />
-- When prompted "Listen only or Microphone" please choose "Microphone" so you can take part in discussions. <br />
-- Please use you real name when connected.<br />
-- The link will be activated shortly before the start of the session:<br /><br />
-[Join Session](https://github.com/Seneca-144100/IPC144SCP-Notes/blob/master/README.md) <br /> <br />
-Recorded Sessions: <br />
-
-
 ## IPC144 links 
 [Subject outline](https://ict.senecacollege.ca/course/ipc144)<br />
 [Subject timeline](https://scs.senecac.on.ca/~ipc144/pages/timeline.html)<br />
 [ONline verions of the notes sold in the bookstore](https://scs.senecac.on.ca/~ipc144/pages/content/index.html)<br />
-[Workshops](https://github.com/Seneca-144100/IPC-Workshops)<br />
+[Workshops](https://github.com/Seneca-144100/IPC144SCP-Notes/tree/master/Workshops)<br />
 ## Quizzes and how to reflect on them 
 Your quizzes are marked as follows:<br />
 Each question has 2 marks:<br />
@@ -59,13 +49,10 @@ If you know how to do this in any other editors or IDEs, please email me the res
 ## Lecture Videos
 [Lecture Video Playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylotlIKklxHn1tdRD8nV4XCuV) <br />
 
-
-
-## Fardad's Schedule 
-<table style="background-color: White; width: 608px;"
+## Fardad's Schedule
+<table style="background-color: White; width: 608px; height: 506px;"
 bordercolorlight="#72D8D8" bordercolordark="#2D9F9F" border="1"
 bordercolor="#38c7c7" cellpadding="0" cellspacing="0">
-<tbody>
 <tr>
 <td align="center" valign="middle" width="18">P</td>
 <td align="center" valign="middle" width="45">Strt<br>
@@ -107,7 +94,8 @@ bgcolor="#33ff33">&nbsp;</td>
 style="width: 102px; text-align: center; background-color: white;"><br>
 </td>
 <td align="center">&nbsp;</td>
-<td align="center" bgcolor="#ffffff">&nbsp;</td>
+<td style="background-color: rgb(51, 204, 255);" align="center"
+bgcolor="#ffffff">IPC144 - SCP&nbsp;</td>
 </tr>
 <tr>
 <td align="center" height="38" valign="middle" width="18">4</td>
@@ -120,24 +108,23 @@ bgcolor="#33ff33">&nbsp;</td>
 style="width: 102px; text-align: center; background-color: white;"><br>
 </td>
 <td align="center">&nbsp;</td>
-<td align="center" bgcolor="#ffffff">&nbsp;</td>
+<td style="background-color: rgb(51, 204, 255);" align="center"
+bgcolor="#ffffff">&nbsp;BBB</td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="18">5</td>
 <td align="center" valign="middle" width="45">11:40<br>
 12:30</td>
-<td style="width: 101px; text-align: center;"><br>
+<td
+style="width: 101px; text-align: center; background-color: red;">Office<br>
+DB1037 </td>
+<td style="text-align: center; background-color: white;"><br>
 </td>
 <td
-style="text-align: center; background-color: rgb(51, 255, 51);">
-IPC144STT<br>
+style="width: 102px; text-align: center; background-color: white;"><br>
 </td>
-<td
-style="width: 102px; text-align: center; background-color: yellow;">
-IPC144SCP<br>
-</td>
-<td style="text-align: center; background-color: white;">&nbsp;<br>
-</td>
+<td style="text-align: center; background-color: red;">&nbsp;Office<br>
+DB1037 </td>
 <td align="center" bgcolor="#ffffff" width="108">&nbsp;</td>
 </tr>
 <tr>
@@ -146,11 +133,10 @@ IPC144SCP<br>
 13:25</td>
 <td align="center" width="101"><br>
 </td>
-<td
-style="text-align: center; background-color: rgb(51, 255, 51);">DB3073<br>
+<td style="text-align: center; background-color: white;"><br>
 </td>
 <td
-style="width: 102px; vertical-align: middle; text-align: center; background-color: yellow;">S2123-BBB<br>
+style="width: 102px; vertical-align: middle; text-align: center; background-color: white;"><br>
 </td>
 <td style="text-align: center;"><br>
 </td>
@@ -161,16 +147,18 @@ style="width: 102px; vertical-align: middle; text-align: center; background-colo
 <td align="center" valign="middle" width="45">13:30<br>
 14:20</td>
 <td
-style="width: 101px; text-align: center; background-color: rgb(51, 255, 51);">IPC144STT<br>
+style="width: 101px; text-align: center; background-color: rgb(51, 255, 51);">OOP345
+- SFF<br>
 </td>
 <td
-style="width: 109px; text-align: center; background-color: red;">Office<br>
-DB1037<br>
+style="width: 109px; text-align: center; background-color: yellow;">OOP244
+- SCP<br>
 </td>
-<td style="text-align: center; background-color: red;">Office<br>
-DB1037<br>
+<td
+style="text-align: center; background-color: rgb(51, 204, 255);">IPC144
+- SCP<br>
 </td>
-<td align="center"><br>
+<td style="background-color: yellow;" align="center">OOP244 - SCP<br>
 </td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 </tr>
@@ -179,13 +167,14 @@ DB1037<br>
 <td align="center" valign="middle" width="45">14:25<br>
 15:15</td>
 <td
-style="width: 101px; vertical-align: middle; text-align: center; background-color: rgb(51, 255, 51);">S2171<br>
+style="width: 101px; vertical-align: middle; text-align: center; background-color: rgb(51, 255, 51);">S2156<br>
 </td>
-<td align="center" valign="middle" width="109"><br>
+<td style="background-color: yellow;" align="center"
+valign="middle" width="109">S2123<br>
 </td>
-<td align="center"><br>
+<td style="background-color: rgb(51, 204, 255);" align="center">BBB<br>
 </td>
-<td align="center"><br>
+<td style="background-color: yellow;" align="center">S2123<br>
 </td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 </tr>
@@ -195,7 +184,7 @@ style="width: 101px; vertical-align: middle; text-align: center; background-colo
 16:10</td>
 <td style="text-align: center; background-color: white;"> <br>
 </td>
-<td style="text-align: center; background-color: yellow;">IPC144SCP<br>
+<td style="text-align: center; background-color: white;"><br>
 </td>
 <td style="text-align: center; background-color: white;">&nbsp;</td>
 <td style="text-align: center;"><br>
@@ -209,7 +198,7 @@ style="width: 101px; vertical-align: middle; text-align: center; background-colo
 <td
 style="width: 101px; vertical-align: middle; text-align: center; background-color: white;">&nbsp;</td>
 <td
-style="width: 109px; vertical-align: middle; height: 37px; text-align: center; background-color: yellow;">S2123-BBB<br>
+style="width: 109px; vertical-align: middle; height: 37px; text-align: center; background-color: white;"><br>
 </td>
 <td style="text-align: center; background-color: white;">&nbsp;</td>
 <td style="text-align: center;"><br>
@@ -223,9 +212,29 @@ style="width: 109px; vertical-align: middle; height: 37px; text-align: center; b
 <td align="center" bgcolor="#ffffff" valign="middle">&nbsp;</td>
 <td align="center" bgcolor="#ffffff" height="37" valign="middle">&nbsp;</td>
 <td align="center">&nbsp;</td>
-<td align="center" bgcolor="#ffffff">&nbsp;</td>
+<td style="background-color: rgb(51, 255, 51);" align="center"
+bgcolor="#ffffff">OOP345-SFFL&nbsp;</td>
 <td align="center" bgcolor="#ffffff" valign="middle">&nbsp;</td>
 </tr>
-</tbody>
+<tr>
+<td style="vertical-align: middle; text-align: center;">12<br>
+</td>
+<td style="vertical-align: top; text-align: center;">18:05<br>
+19:00<br>
+</td>
+<td style="vertical-align: top;"><br>
+</td>
+<td style="vertical-align: top;"><br>
+</td>
+<td style="vertical-align: top;"><br>
+</td>
+<td
+style="vertical-align: middle; text-align: center; background-color: rgb(51, 255, 51);">DB2107<br>
+</td>
+<td style="vertical-align: top;"><br>
+</td>
+</tr>
 </table>
+
+
 
