@@ -9,11 +9,6 @@ void clearKeyboard(void) {
 }
 
 
-
-
-
-
-
 int main(void) {
   int num;
   char answer = 'n';

@@ -4,25 +4,31 @@
 void drawLine(int length);
 void grade(int mark);
 void mark(char grade) {
-  if (grade == 'A' || grade == 'a') {
+  switch (grade) {
+  case 'A':
+  case 'a':
     printf("80 <= mark <= 100");
-  }
-  else if (grade == 'B' || grade == 'b') {
+    break;
+  case 'B':
+  case 'b':
     printf("70 <= mark < 80");
-  }
-  else if (grade == 'C' || grade == 'c') {
+    break;
+  case 'C':
+  case 'c':
     printf("60 <= mark < 70");
-  }
-  else if (grade == 'D' || grade == 'd') {
+    break;
+  case 'D':
+  case 'd':
     printf("50 <= mark < 60");
-  }
-  else if (grade == 'F' || grade == 'f') {
+    break;
+  case 'F':
+  case 'f':
     printf("mark < 50");
-  }
-  else {
+    break;
+  default:
     printf("Invalid Grade!");
+    break;
   }
-
 }
 void MarkConverter(void);
 
