@@ -47,7 +47,17 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=pttIoMyyMaM) <br />
 
 ## Lecture Videos
-[Lecture Video Playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylotlIKklxHn1tdRD8nV4XCuV) <br />
+[Jan 16](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1547663185618/capture/) <br />
+[Jan 18](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1547823516691/capture/)<br />
+[Jan 23](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1548268112002/capture/)<br />
+[Jan 25](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1548428419702/capture/)<br />
+[Feb 01](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1549033349807/capture/)<br />
+[Feb 08](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1549637919202/capture/)<br />
+[Feb 15](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1550242605750/capture/)<br />
+[Feb 20](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1550687309714/capture/)<br />
+[Feb 22](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1550846562233/capture/)<br />
+[Mar 06](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1551896853536/capture/)<br />
+[Mar 13 PRoject startup (not availabe on MySeneca page)](https://recordings.rna1.blindsidenetworks.com/senecacollege/37605cff5aec32d4f67ecde0ac6c639f6aecb542-1552500166206/capture/)<br />
 
 ## Fardad's Schedule
 <table style="background-color: White; width: 608px; height: 506px;"
