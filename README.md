@@ -59,8 +59,7 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Mar 06](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1551896853536/capture/)<br />
 [Mar 13 PRoject startup (not availabe on MySeneca page)](https://recordings.rna1.blindsidenetworks.com/senecacollege/37605cff5aec32d4f67ecde0ac6c639f6aecb542-1552500166206/capture/)<br />
 [Mar 15 Project MS1 and 2 and Array Review (not on mySeneca page](https://recordings.rna1.blindsidenetworks.com/senecacollege/37605cff5aec32d4f67ecde0ac6c639f6aecb542-1552657669096/capture/)<br />
-[Mar 20 Part 1 (HTML 5 not on MySeneca)]
-(https://recordings.rna1.blindsidenetworks.com/senecacollege/37605cff5aec32d4f67ecde0ac6c639f6aecb542-1553099565311/capture/) <br />
+[Mar 20 Part 1 (HTML 5 not on MySeneca)](https://recordings.rna1.blindsidenetworks.com/senecacollege/37605cff5aec32d4f67ecde0ac6c639f6aecb542-1553099565311/capture/) <br />
 [Mar 20 Part 2 (available on MySeneca)](https://recordings.rna2.blindsidenetworks.com/senecacollege/924c285e1eccc7571dead264ae9e728c4250f4dd-1553102719117/capture/)<br />
 
 ## Fardad's Schedule
