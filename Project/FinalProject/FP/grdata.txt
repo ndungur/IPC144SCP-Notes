@@ -1,0 +1,6 @@
+275,10,2,4.40,0,Royal Apples
+386,20,4,5.99,0,Watermelon
+240,47,5,3.99,0,Blueberries
+355,20,5,4.49,1,Chicken Alfredo
+846,3,5,5.49,1,Veal Parmigiana
+359,40,5,5.29,1,Beefsteak Pie
