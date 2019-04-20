@@ -40,14 +40,25 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Object Include="grfile.obj" />
-    <Object Include="interface.obj" />
-    <Object Include="item.obj" />
-    <Object Include="itemSRA.obj" />
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="grdata.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="testdata.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="grfile.obj">
+      <Filter>Source Files</Filter>
+    </Object>
+    <Object Include="interface.obj">
+      <Filter>Source Files</Filter>
+    </Object>
+    <Object Include="item.obj">
+      <Filter>Source Files</Filter>
+    </Object>
+    <Object Include="itemSRA.obj">
+      <Filter>Source Files</Filter>
+    </Object>
   </ItemGroup>
 </Project>

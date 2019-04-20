@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{4E652547-FA9C-4C1C-9AC2-A05990089CE9}</ProjectGuid>
+    <ProjectGuid>{D9768FA2-5E49-47E0-B751-79E629541397}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>FP</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
@@ -151,6 +151,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="grdata.txt" />
+    <Text Include="testdata.txt" />
   </ItemGroup>
   <ItemGroup>
     <Object Include="grfile.obj" />
